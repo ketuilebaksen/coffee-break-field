@@ -1,0 +1,76 @@
+{
+  "name": "COFFEE BREAK ON THE FIELD",
+  "outro_tag": "CHIEFS NEWS EVERY DAY",
+  "editorial": "news",
+  "clip_offset": 43,
+  "team": "Kansas City Chiefs",
+  "nickname": "Chiefs",
+  "league": "NFL",
+  "sport": "football",
+  "venue": "GEHA Field at Arrowhead Stadium",
+  "sources": "ESPN, NFL.com, Chiefs.com, Arrowhead Pride, Pro Football Talk, The Athletic, Kansas City Star",
+  "hashtags": "#Chiefs #NFL #KansasCityChiefs #ChiefsKingdom",
+  "roster": [
+    "Patrick Mahomes",
+    "Kenneth Walker",
+    "Isiah Pacheco",
+    "Travis Kelce",
+    "Rashee Rice",
+    "Xavier Worthy",
+    "Tyquan Thornton",
+    "Hollywood Brown",
+    "Noah Gray",
+    "Creed Humphrey",
+    "Trey Smith",
+    "Josh Simmons",
+    "Jaylon Moore",
+    "Kingsley Suamataia",
+    "Chris Jones",
+    "George Karlaftis",
+    "Ashton Gillotte",
+    "Khyiris Tonga",
+    "Nick Bolton",
+    "Drue Tranquill",
+    "Leo Chenal",
+    "Trent McDuffie",
+    "Nohl Williams",
+    "Mansoor Delane",
+    "Jaylen Watson",
+    "Bryan Cook",
+    "Chamarri Conner",
+    "Alohi Gilman",
+    "Andy Reid",
+    "Brett Veach"
+  ],
+  "tts_engine": "eleven",
+  "palette": {
+    "primary": [
+      227,
+      24,
+      55
+    ],
+    "secondary": [
+      255,
+      184,
+      28
+    ],
+    "ink": [
+      26,
+      6,
+      10
+    ]
+  },
+  "hook_cut": 2.8,
+  "body_cut": 3.4,
+  "photo_zoom": 0.08,
+  "overlay_kinds": [
+    "speech",
+    "lower3",
+    "comic",
+    "chat"
+  ],
+  "overlay_every_sec": 25,
+  "bounce": true,
+  "thumb_engine": "none",
+  "eleven_voice_id": "S9UjcNYIwfBOtZiDnIQT"
+}
