@@ -58,6 +58,26 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
           pip install -q Pillow numpy pydub rembg onnxruntime opencv-python-headless faster-whisper
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Hareketli grafikler (Remotion)
+        continue-on-error: true
+        run: |
+          # Remotion sadece açılıştaki grafikleri üretiyor; kurulamazsa video
+          # yine çıkar, sayfalar eski ffmpeg yöntemiyle çizilir.
+          if [ -f scripts/remotion_setup.py ]; then
+            python3 scripts/remotion_setup.py
+            if [ -x /usr/bin/google-chrome ]; then
+              echo "REMOTION_CHROME=/usr/bin/google-chrome" >> $GITHUB_ENV
+            else
+              (cd remotion && npx --yes remotion browser ensure) || true
+            fi
+          else
+            echo "remotion_setup.py yok — grafikler ffmpeg ile cizilecek"
+          fi
+
       - name: Sesi çöz ve kurguyu ona göre kes
         env:
           AUDIO_FILE: ${{ matrix.item.path }}
@@ -73,10 +93,12 @@ jobs:
           MEDIA_REPO: ${{ vars.MEDIA_REPO || github.repository }}
           MUSIC_REPO: ${{ vars.MUSIC_REPO || github.repository }}
         run: |
-          mkdir -p work/broll work/music work/photos
+          mkdir -p work/broll work/music work/photos work/ambient
           gh release download broll -R "$MEDIA_REPO" -D work/broll || echo "no b-roll release"
           gh release download music -R "$MUSIC_REPO" -D work/music || echo "no music release"
           gh release download photos -R "$MEDIA_REPO" -D work/photos || echo "no photos release"
+          # stadyum ugultusu / ortam sesi — opsiyonel, yoksa video sessiz zeminde kalir
+          gh release download ambient -R "$MEDIA_REPO" -D work/ambient || echo "no ambient release"
           python3 scripts/photos.py content/current/script.json || echo "auto photos skipped"
 
       - name: Visuals
