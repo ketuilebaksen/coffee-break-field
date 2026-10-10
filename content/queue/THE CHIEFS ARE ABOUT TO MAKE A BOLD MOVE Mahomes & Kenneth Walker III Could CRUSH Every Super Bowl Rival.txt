@@ -1,0 +1,233 @@
+A national analyst went on television this week and made two arguments about the Kansas City Chiefs in about thirty seconds.
+
+Argument one. They have zero sacks in their last three games, and that is a serious problem.
+
+Argument two. Kenneth Walker is on pace for four hundred and fifty touches, which is unsustainable, and that is also a serious problem.
+
+And then somebody on that panel said the smartest thing anybody has said about this football team all month. He said, you can't use both of those.
+
+You cannot simultaneously argue that the bad thing obviously won't continue and therefore it's a problem, and that the good thing obviously won't continue and therefore it's also a problem. Pick one.
+
+That exchange is the entire Chiefs debate in miniature. And today I'm going to settle it, not with vibes, but with a set of numbers that I think most people have never seen, including a stat about George Karlaftis that is genuinely the most remarkable thing I've found all season.
+
+I also owe you a correction on a historical stat I passed along two weeks ago. I got the shape of it right and the specifics wrong, and the real version is actually better.
+
+What's up everybody, welcome back to Coffee Break on the Field. Pour the coffee. Let's do this properly.
+
+Let's start with the logic, because I think it matters more than any single stat.
+
+Both of those criticisms are the same kind of argument. They're both regression-to-the-mean arguments. They both say, this current number is extreme and extreme numbers don't last.
+
+And both of them are correct. Kansas City will not finish this season with zero sacks. Kenneth Walker will not finish with two hundred more touches than his career high.
+
+But notice which direction each one moves.
+
+If the sacks regress, the defense gets better. If Walker's workload regresses, it's because somebody else is carrying some of it, which means the offense got deeper.
+
+So if you genuinely believe both numbers revert, you are not describing a team with two problems. You are describing a team that is four and oh right now and is about to get better in both directions.
+
+That's not me being a fan. That's just following the argument to its own conclusion.
+
+And I want to make the point even sharper, because there's a version of this criticism that would actually be fair, and nobody is making it.
+
+The fair version would be: the sacks will come, and the touches will drop, and the question is whether the defense improves faster than the running back wears down. That's a real question. That's a genuinely interesting question. I'd watch a whole video about that question.
+
+What isn't fair is listing both numbers as evidence of decline, because they are evidence of opposite things. One of them is a floor that's going to rise. The other is a ceiling that's going to fall. A team with a rising floor and a falling ceiling is a team converging on being very good and fairly stable, which, if you've watched one month of this football team, is exactly what it looks like.
+
+Now, the data. And this is where it stops being a debate.
+
+Here is the single most important pair of numbers about the Kansas City Chiefs right now, and almost nobody is saying them together.
+
+In pressure rate, Kansas City ranks twelfth in the National Football League.
+
+In sack rate, Kansas City ranks thirty-first.
+
+Twelfth and thirty-first.
+
+Sit with that. That is not a pass rush that can't get to the quarterback. That is a pass rush that is getting there and not finishing.
+
+Those are two completely different diseases and they have completely different prognoses. A front that can't generate pressure needs new players. A front that generates pressure without converting it needs time, because pressure is one of the most predictive stats in football and sacks tend to follow it.
+
+Want the game-level version? Against Las Vegas, the Chiefs generated twenty-five quarterback pressures.
+
+Twenty-five pressures. Zero sacks.
+
+And now let me tell you about George Karlaftis in that football game, because this is the part that made me sit up.
+
+Karlaftis finished with seven quarterback hits. Seven.
+
+That is the most quarterback hits by any player in a regular-season game since Pro Football Focus started tracking the statistic in twenty twenty-one.
+
+The most. By anybody. In five years.
+
+He also had eleven quarterback pressures, tied for the most in a single game by any player this entire season. He forced the deflected pass on the final snap of the game, the one that Xavier Nwankpa intercepted to end it. And he got home for a ten-yard sack that was erased by a holding penalty on L'Jarius Sneed.
+
+So the man who supposedly can't generate a pass rush set a five-year record for hitting the quarterback, had a sack taken off the board by his own teammate's penalty, and ended the game by tipping the ball that got picked.
+
+And his stat line says zero sacks.
+
+That's the whole story. The stat sheet is lying to you.
+
+Now, my correction.
+
+Two weeks ago on this channel, I passed along a claim from a television panel that Kansas City had just become only the third team ever to win three straight games without recording a sack. And to my credit I told you at the time that I couldn't verify it and you should treat it as their claim rather than mine.
+
+Good instinct, because they had it wrong. Here is the actual stat, from Josh Dubow of the Associated Press.
+
+No team has won three consecutive games without sacking a quarterback since two thousand six.
+
+Not third ever. First in twenty years. Which is a cleaner, stranger, more interesting fact than the one I was handed, and now you have the right version.
+
+And for the record, the last time Kansas City sacked anybody was week one, when they got Bo Nix four times.
+
+Now listen to how the players themselves are talking about it, because this tells you more than any analyst.
+
+Karlaftis said, at the end of the day, we have to get sacks. He added that the team trusts they will. On the postgame show he said, our numbers aren't there yet.
+
+He's even got a name for the near misses. He calls them MOBPs. Missed opportunity, big plays. Rookie R Mason Thomas had Kirk Cousins wrapped up and couldn't finish the play.
+
+And Chris Jones, being Chris Jones, joked last week that they'd put a lot of good on film and asked if somebody could please get a sack so reporters would stop writing about it.
+
+That is a group of men who know exactly what the problem is and who do not sound confused about it.
+
+Okay, quick pause. Because now I want to show you what happens when this specific flaw meets this specific opponent, and I think Chiefs fans are going to enjoy this.
+
+Kansas City plays the Los Angeles Chargers at Arrowhead on October eighteenth.
+
+The Chargers allow the second-highest pressure rate in the National Football League, and the sixth-worst sack rate.
+
+Read that again next to Kansas City's twelfth in pressure and thirty-first in sacks.
+
+A front that creates pressure but can't convert it, against a line that gives up pressure and gives up sacks.
+
+And it gets better, because of the injuries. Their starting center, Tyler Biadasz, is out for the season. Rashawn Slater left their Seattle loss with an ankle injury and the reporting out of Los Angeles is that it would be very shocking if he plays in week six. Joe Alt suffered a neck injury in the same game and his availability is somewhere around a seventy-five to twenty-five proposition. If Alt can't go, a fourth-round rookie named Travis Burke is the likely starter.
+
+So on October eighteenth, a pressure-generating front that has been unlucky meets possibly the most compromised offensive line this team will see all season, in its own building, against an offense that is zero and four.
+
+If the sacks don't show up that day, then we have an actual conversation. Until then, I think this is the week the stat sheet catches up to the film.
+
+And there's a broader lesson in those two numbers that I want you to take with you, because it'll make you better at watching football for the rest of your life.
+
+Sacks are an outcome statistic. Pressures are a process statistic.
+
+Outcome stats tell you what happened. Process stats tell you what's likely to keep happening. A sack requires everything to go right at once: the rush wins, the quarterback holds the ball, the receiver doesn't uncover, nobody holds you, and you finish the tackle. There are five ways to lose a sack you earned, and Kansas City has found most of them this season.
+
+Pressure only requires you to beat your man and arrive. That's why pressure rate predicts next month's sacks far better than this month's sacks do.
+
+So whenever you see a team whose process numbers and outcome numbers disagree wildly, trust the process number and wait. That works for pass rush, it works for red zone efficiency, it works for turnover margin, and it's the same reasoning that told us the Raiders' nine takeaways in three games weren't going to last. They forced zero against Kansas City.
+
+Alright. Now the other half of the criticism, and I want to be fair to it, because I've made this argument myself.
+
+Kenneth Walker is on pace for roughly four hundred and fifty touches.
+
+That is more than two hundred touches above his career high. Not a little more. A different category of workload entirely.
+
+And his body has a history. In twenty twenty-four he missed six games with calf, ankle, and oblique injuries and was limited in the following training camp, and the reason is the exact thing that makes him special. He runs through people. One hundred and forty-nine yards after contact in the Las Vegas game alone. Every one of those yards is a collision he chose.
+
+So yes. That's a real concern and I have said so on this channel. The bye week is exactly when you build a plan to get Emmett Johnson some real work, so that in December you're not handing a rookie a critical role he's never rehearsed.
+
+But here's where the criticism goes wrong. Calling Walker's success an over-reliance problem.
+
+And one of the analysts dismantled this with a set of numbers I had not heard, so let me pass it along.
+
+His claim is that Patrick Mahomes's production right now is essentially identical to his peak years from twenty eighteen through twenty twenty-two under Eric Bieniemy. Touchdown-to-interception ratio. Passer rating. Team points per game. All of it in line.
+
+And the only category that's down is passing yards, for the obvious reason. They're running the ball more.
+
+Think about what that means. If your quarterback is producing at his career-peak efficiency while throwing less, that is not an offense leaning on a running back. That is an offense that found a second engine and got more efficient.
+
+And it shows up elsewhere. Mahomes has thrown multiple touchdown passes in all four games to start the year. That Raiders win was his ninety-ninth career victory, tying Tom Brady's record through a quarterback's first one hundred and thirty starts. Kansas City leads the NFL in plays of twenty-five or more yards and in receptions of forty or more yards.
+
+That's not a dink-and-dunk team hiding behind a runner. That's an explosive passing attack and an elite rushing attack at the same time, which is precisely why defenses can't pick a side.
+
+One more thing on the workload, because there's an angle to it that cuts the other way and I haven't heard anybody mention it.
+
+A four hundred and fifty touch pace is alarming over seventeen games. But Kansas City just took its bye in week five, which is the earliest possible rest this team could have gotten. Kenneth Walker is getting a week off at the exact moment his body has absorbed four games of punishment rather than twelve.
+
+That's not nothing. An early bye is usually considered a scheduling disadvantage, because you get no rest down the stretch. For a running back on a historic workload pace, it's the opposite. You're banking recovery before the damage compounds.
+
+So the honest version is that the workload is a real risk, and the calendar just handed them one small piece of insurance on it.
+
+Now the schedule argument, because this one comes up constantly and I think it's the weakest criticism on the board.
+
+The claim is that the Chiefs haven't beaten anybody. So let's actually check.
+
+Denver, in games they don't play Kansas City, is two and one. The Las Vegas Raiders, in games they don't play Kansas City, are three and oh. Indianapolis, in games they don't play Kansas City, is two and one.
+
+Miami is bad. I'll concede Miami. Miami is objectively bad.
+
+But here's the trap, and it's a good one. The same analyst making the schedule argument had picked Denver to make the playoffs and picked Indianapolis to win its division.
+
+You cannot pick two teams to be good in August and then, in October, dismiss the wins over them as flimsy. One of those two positions has to go.
+
+And for comparison, the undefeated Vikings have not played a harder road. San Francisco played Denver too and won by a smaller margin than Kansas City did.
+
+Now, I'll give the critics this much, because I'm not going to pretend. In week five, nobody's résumé is impressive. Everybody has beaten a couple of teams we'll later decide were mediocre. That's just what October is. The honest version of the schedule argument is that we don't know much about anybody yet, and that applies to all thirty-two teams equally. It becomes a fake criticism the moment you only apply it to one of them.
+
+Alright. Let me give you the genuinely fair concerns, because a video that only defends its team isn't analysis.
+
+Kansas City gave up thirty points to Indianapolis. They gave up twenty-seven to Las Vegas. And even in Miami, where they only allowed ten, the defense didn't look convincing.
+
+Opposing tight ends have gone for enormous numbers two straight weeks. Las Vegas got sixteen catches and two hundred yards out of Brock Bowers, Michael Mayer, and Ian Thomas. That is a scheme problem, not bad luck, and it's the single most likely way this team loses a game in January.
+
+And three of these four wins came by three points or fewer. This team is undefeated on a razor.
+
+Those are real. I'm not arguing those away.
+
+I'll also pass along one line from that panel that I thought was bracing and correct. He said if, through the first month of a season, the worst injury you've suffered is Tyquan Thornton, you're probably a little above league average. He pointed to San Francisco, which has reportedly lost around nine players to injured reserve.
+
+That's cold, and Thornton's dislocated ankle is genuinely awful for him personally. But as a roster-management observation it's true, and it's worth hearing when the panic starts.
+
+Now, Tyreek Hill, and I'm going to handle this briefly and plainly, because the situation changed this week.
+
+One of those analysts said, hopefully Tyreek Hill comes back, we have no idea if he can still play football. That was already the honest position given a dislocated knee, two surgeries, and a November target.
+
+It is now more complicated than that. This week Hill testified in a civil trial brought by his ex-wife. According to ESPN and others, he admitted pushing her into a wall and admitted saying he could get people to hurt her, while denying her other allegations. The NFL has an active personal conduct policy review, and the reporting is that discipline is a real possibility, though nobody knows what it would be.
+
+I'm not going to speculate beyond that, I'm not going to dig into the allegations, and I'm not going to build a forecast for this football team on a situation nobody can predict. If you're planning Kansas City's season around Tyreek Hill right now, you're planning around an unknown stacked on top of an unknown. The Chiefs have to solve their receiver room with people who are available, and that's where I'd put my attention.
+
+Let me also credit the one piece of this debate I found genuinely funny and human, because it says something true about sports television.
+
+The critic in that exchange had picked Kansas City to miss the playoffs entirely. And his own co-host, who called him his best friend on air, told him the honest thing: it would have been easier and better for you to simply say after week one that you were stone wrong about the Chiefs.
+
+Instead, he said, you've been taking your medicine in tiny drips and drabs, like a little kid refusing to swallow the pink stuff.
+
+And I laughed, but there's a real point in there for all of us who talk about this sport. Being wrong is not the problem. Everybody's wrong constantly. I've been wrong on this channel about Xavier Worthy's stat line, about why Kingsley Suamataia was benched, about where Patrick Mahomes got hurt, and about how seriously to treat a Marvin Harrison Jr. rumor. I've corrected every one of those on air, including one in this very video.
+
+The problem is defending a prediction after the evidence has moved. That's when analysis stops being analysis and starts being bookkeeping for your own ego.
+
+So. Dominant, or overrated?
+
+My answer is neither, and I think the betting market actually has this right. Depending on where you look, Kansas City sits around the sixth-best Super Bowl odds, with some books having them as high as second and as the AFC favorite, with the Rams favored overall.
+
+That's a team that's genuinely among the best handful in football and genuinely not a juggernaut. Both things.
+
+And one of those analysts put it in a way I agree with completely. He said he doesn't know whether this team is better than some historical team it doesn't have to play, and he doesn't care. In the twenty twenty-six National Football League, they are clearly the best team in the American Football Conference.
+
+That's the correct standard. You don't have to beat history. You have to beat the fourteen other teams in your conference.
+
+And I'll say one more thing about the defense being young, because it's the context that makes all of this make sense.
+
+This is the second-youngest defense in the National Football League. Kansas City used two high draft picks on pass rushers this year alone, Peter Woods on the interior and R Mason Thomas off the edge, and put them next to Chris Jones and George Karlaftis.
+
+With a group that young, you deliberately hold things back early. You call a simpler game, because you are more frightened of a blown coverage than of a quiet sack total. As they learn, Steve Spagnuolo can expand the package, bring more exotic pressures, and let those rookies play faster.
+
+One of the analysts said from the start of the year that this defense would be a work in progress all season long because of how young it is, and that the fact they're winning anyway speaks to the overall talent of the roster. I think that's exactly right. A young defense in October is not a verdict. It's a construction site.
+
+Here's where I land.
+
+The Chiefs do not need to look perfect in October. They need to be better in January. And right now they have two unfinished projects, a pass rush that generates pressure and can't convert it, and a running back carrying too much, and the fix for both of them is the same thing.
+
+Time, and a bye week, and depth.
+
+A front ranked twelfth in pressure will get its sacks. A team with a fifth-round rookie running back behind the league's leading rusher can share that load. Neither of those requires a trade or a miracle. They require exactly what Andy Reid is doing right now, which is working.
+
+If the pass rush wakes up while this offense keeps scoring thirty a game, then the people calling this team overrated are going to have a very uncomfortable November.
+
+If you want the version with the actual numbers in it, hit that like button and subscribe to Coffee Break on the Field. Chargers preview coming before October eighteenth.
+
+Now I want your honest answer in the comments. Twelfth in pressure, thirty-first in sacks. Is that a pass rush that's about to break out, or is that a pass rush that just can't finish plays and never will?
+
+Pick a side and tell me why. I read every single one of these.
+
+Keep the coffee hot and keep the Chiefs rolling. I'm out, see you next time on Coffee Break on the Field.
